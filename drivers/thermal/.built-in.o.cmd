@@ -1,0 +1,1 @@
+cmd_drivers/thermal/built-in.o :=  /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/thermal/built-in.o drivers/thermal/thermal_sys.o drivers/thermal/pmic8901-tm.o drivers/thermal/pmic8058-tm.o drivers/thermal/msm_tsens.o 

@@ -1,0 +1,1 @@
+cmd_drivers/spi/spidev.ko := /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/hacker/android/kernels/shooter-2.6.35-kernel/scripts/module-common.lds --build-id -o drivers/spi/spidev.ko drivers/spi/spidev.o drivers/spi/spidev.mod.o

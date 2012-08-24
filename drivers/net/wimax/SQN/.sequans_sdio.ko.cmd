@@ -1,0 +1,1 @@
+cmd_drivers/net/wimax/SQN/sequans_sdio.ko := /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/hacker/android/kernels/shooter-2.6.35-kernel/scripts/module-common.lds --build-id -o drivers/net/wimax/SQN/sequans_sdio.ko drivers/net/wimax/SQN/sequans_sdio.o drivers/net/wimax/SQN/sequans_sdio.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/lcd.ko := /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/hacker/android/kernels/shooter-2.6.35-kernel/scripts/module-common.lds --build-id -o drivers/video/backlight/lcd.ko drivers/video/backlight/lcd.o drivers/video/backlight/lcd.mod.o

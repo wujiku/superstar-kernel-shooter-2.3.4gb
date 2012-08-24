@@ -1,0 +1,1 @@
+cmd_drivers/power/power_supply.o := /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/power/power_supply.o drivers/power/power_supply_core.o drivers/power/power_supply_sysfs.o 

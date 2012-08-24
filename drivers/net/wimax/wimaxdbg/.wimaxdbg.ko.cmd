@@ -1,0 +1,1 @@
+cmd_drivers/net/wimax/wimaxdbg/wimaxdbg.ko := /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/hacker/android/kernels/shooter-2.6.35-kernel/scripts/module-common.lds --build-id -o drivers/net/wimax/wimaxdbg/wimaxdbg.ko drivers/net/wimax/wimaxdbg/wimaxdbg.o drivers/net/wimax/wimaxdbg/wimaxdbg.mod.o

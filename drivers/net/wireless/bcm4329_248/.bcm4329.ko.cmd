@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/bcm4329_248/bcm4329.ko := /home/hacker/codesourcery/lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/hacker/android/kernels/shooter-2.6.35-kernel/scripts/module-common.lds --build-id -o drivers/net/wireless/bcm4329_248/bcm4329.ko drivers/net/wireless/bcm4329_248/bcm4329.o drivers/net/wireless/bcm4329_248/bcm4329.mod.o
